@@ -19,3 +19,4 @@ A full-stack **ChatBoard application** that allows users to perform **CRUD opera
 - Bootstrap
 
 ## 📺 Demo Video
+> https://github.com/user-attachments/assets/ae70759b-f4b9-45a8-9097-5cbc1bcd086e
